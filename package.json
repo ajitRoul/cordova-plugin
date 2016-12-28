@@ -1,0 +1,25 @@
+{
+  "name": "AndroidWearNotification",
+  "version": "0.0.1",
+  "description": "cordova plugin for android wear basic notification",
+  "cordova": {
+    "id": "cordova-basicNotification",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajitRoul/cordova-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ajit roul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajitRoul/cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/ajitRoul/cordova-plugin#readme"
+}
