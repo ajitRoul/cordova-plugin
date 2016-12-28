@@ -1,4 +1,4 @@
-package cordova-basicNotification;
+package cordova.basicnotification;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
