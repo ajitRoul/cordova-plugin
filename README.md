@@ -1,4 +1,10 @@
 # Android Wear Cordova plugin
 This plugin allow you get notification in android wear from cordova application.
-#Setup
+# Support 
+Android
+# Setup
+cordova plugin add https://github.com/ajitRoul/cordova-plugin.git
+cordova.exec(success, error, "AndroidWearNotification", "basicNotification", args);
+
+
 
